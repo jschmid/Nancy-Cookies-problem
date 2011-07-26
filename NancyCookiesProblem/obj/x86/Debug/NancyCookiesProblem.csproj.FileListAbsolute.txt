@@ -1,0 +1,8 @@
+S:\tests\NancyCookiesProblem\NancyCookiesProblem\bin\Debug\NancyCookiesProblem.exe.config
+S:\tests\NancyCookiesProblem\NancyCookiesProblem\bin\Debug\NancyCookiesProblem.exe
+S:\tests\NancyCookiesProblem\NancyCookiesProblem\bin\Debug\NancyCookiesProblem.pdb
+S:\tests\NancyCookiesProblem\NancyCookiesProblem\bin\Debug\Nancy.dll
+S:\tests\NancyCookiesProblem\NancyCookiesProblem\bin\Debug\Nancy.Hosting.Self.dll
+S:\tests\NancyCookiesProblem\NancyCookiesProblem\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\tests\NancyCookiesProblem\NancyCookiesProblem\obj\x86\Debug\NancyCookiesProblem.exe
+S:\tests\NancyCookiesProblem\NancyCookiesProblem\obj\x86\Debug\NancyCookiesProblem.pdb
